@@ -1,3 +1,3 @@
-# JogoDoBilhao_Java
+# Jogo Do Bilhão
 
-Jogo de perguntas e repostas criado em Java utilizando a API Swing
+Jogo de perguntas e respostas criado em Java utilizando a API Swing
